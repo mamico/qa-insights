@@ -1,0 +1,7 @@
+# Get rid of .venv when copying
+*/.venv
+*/*/.venv
+
+app/app/tools/*/*/node_modules
+app/app/tools/*/*/reports
+app/app/tools/*/*/user_data
