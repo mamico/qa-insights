@@ -2,8 +2,7 @@
 
 ## Installation requirements
 
-* [Docker](https://www.docker.com/) v24.0.4.
-* [Docker Compose](https://docs.docker.com/compose/install/) v2.20.0.
+* [Docker + Docker Compose](https://www.docker.com/) >= v24.0.4.
 
 ## Framework installation guide
 
