@@ -19,5 +19,15 @@ The most important environment configurations to set are:
   - Change all logins settings: modify all "admin" with your username and password for all the services.
 
 
+### COMPONENTS
+
+* TRAEFIK (Proxy)
+* FRONTEND (ReactJS)
+* BACKEND (Python FastAPI)
+* CELERY WORKER(S)
+* REDIS (CELERY BROKER/DB)
+* DB (POSTGRESQL)
+* FLOWER (CELERY GUI) - Optional
+
 ### [DEVELOPMENT GUIDE](docs/DEV.md)
 
